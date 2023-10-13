@@ -1,0 +1,83 @@
+─ CPU
+  └── Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz
+      ├── Cores: 4
+      ├── Threads: 4
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Motherboard
+  ├── Model: B85M-D2V
+  └── Manufacturer: Gigabyte Technology Co., Ltd.
+
+─ GPU
+  └── Intel(R) HD Graphics 4600
+      ├── Device ID: 0x0412
+      ├── Vendor: 0x8086
+      ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x0)
+      ├── ACPI Path: \_SB.PCI0.GFX0
+
+─ Memory
+  ├── KVR16N11/8-SP (Part-Number)
+  │   ├── Type: DDR3
+  │   ├── Slot
+  │   │   ├── Bank: BANK 0
+  │   │   └── Channel: ChannelA-DIMM0
+  │   ├── Frequency (MHz): 1600 MHz
+  │   ├── Manufacturer: Kingston
+  │   └── Capacity: 8192MB
+  └── KVR16N11/8-SP (Part-Number)
+      ├── Type: DDR3
+      ├── Slot
+      │   ├── Bank: BANK 2
+      │   └── Channel: ChannelB-DIMM0
+      ├── Frequency (MHz): 1600 MHz
+      ├── Manufacturer: Kingston
+      └── Capacity: 8192MB
+
+─ Network
+  └── RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+      ├── Device ID: 0x8168
+      ├── Vendor: 0x10EC
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1c,0x2)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.RP03.PXSX
+
+─ Audio
+  └── Realtek ALC887
+      ├── Device ID: 0x0887
+      └── Vendor: 0x10EC
+
+─ Input
+  ├── HID Keyboard Device
+  │   ├── Product ID: 0x6811
+  │   └── Vendor ID: 0x08F2
+  ├── HID Keyboard Device
+  │   ├── Product ID: 0xA088
+  │   └── Vendor ID: 0x04D9
+  ├── USB Input Device (USB)
+  │   ├── Product ID: 0xA088
+  │   └── Vendor ID: 0x04D9
+  ├── USB Input Device (USB)
+  │   ├── Product ID: 0x0400
+  │   └── Vendor ID: 0x30FA
+  └── HID-compliant mouse
+      ├── Product ID: 0x6811
+      └── Vendor ID: 0x08F2
+
+─ Storage
+  ├── Innostor Innostor
+  │   ├── Type: Solid State Drive (SSD)
+  │   ├── Connector: USB
+  │   └── Location: External
+  ├── ST9250315AS
+  │   ├── Type: Hard Disk Drive (HDD)
+  │   ├── Connector: Serial ATA (SATA)
+  │   └── Location: Internal
+  ├── WDC WD5000LPCX-24C6HT0
+  │   ├── Type: Hard Disk Drive (HDD)
+  │   ├── Connector: Serial ATA (SATA)
+  │   └── Location: Internal
+  └── Vaseky V800/120G
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: Serial ATA (SATA)
+      └── Location: Internal
+
