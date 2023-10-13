@@ -12,8 +12,34 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 To deploy this project properly, please obtain the EFI folder from this repository, edit the config.plist to generate new serial number, rom, UUID, etcetera, then save config.plist, and place the files onto the appropriate ESP EFI partition in order to boot using OpenCore bootloader and proceed with your installation of macOS.
 
 # Documentation
-The hardware in this Machine is as follows:
+_The hardware in this Machine is as follows_:
 - Audio: Realtek ALC887
 - CPU: Intel Core i5-4590S
 - Network: RTL8111 GbE
 - GPU: Intel(R) HD Graphics 4600
+
+# BIOS Settings
+
++ **BIOS Features**
+- Fast Boot: Disabled
+- Limit CPUID Maximum: Disabled
+- Execute Disable Bit: Enabled
+- Intel Virtualization Technology: Enabled
+- VT-d: Disabled
+- Windows 8 Features: Other OS
+- Boot Mode Selection UEFI Only
+- LAN PXE Boot Option ROM: Disabled
+- Storage Boot Option Control: UEFI Only
+- Network stack: Disabled
+
++ **Peripherals**
+- XHCI Mode: Enabled
+- Audio Controller: Enabled
+- Intel Processor Graphics: Enabled
+- Intel Processor Graphics Memory Allocation: 64M (depends on your RAM)
+- DVMT Total Memory Size: MAX (depends on your RAM)
+- XHCI Hand-off: Enabled
+- EHCI Hand-off: Enabled
+- OnBoard LAN Controller: Enabled
+- SATA Configuration: SATA Mode Selection: AHCI
+- Super IO Configuration: Serial Port A: Disabled
