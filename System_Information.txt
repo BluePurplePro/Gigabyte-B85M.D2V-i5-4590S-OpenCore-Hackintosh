@@ -14,7 +14,7 @@
       ├── Device ID: 0x0412
       ├── Vendor: 0x8086
       ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x0)
-      ├── ACPI Path: \_SB.PCI0.GFX0
+      └── ACPI Path: \_SB.PCI0.GFX0
 
 ─ Memory
   ├── KVR16N11/8-SP (Part-Number)
