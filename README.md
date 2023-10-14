@@ -36,8 +36,8 @@ _The hardware in this Machine is as follows_:
 - XHCI Mode: Enabled
 - Audio Controller: Enabled
 - Intel Processor Graphics: Enabled
-- Intel Processor Graphics Memory Allocation: 32M/64M
-- DVMT Total Memory Size: 128M/256M/MAX
+- Intel Processor Graphics Memory Allocation: 64M
+- DVMT Total Memory Size: MAX
 - XHCI Hand-off: Enabled
 - EHCI Hand-off: Enabled
 - OnBoard LAN Controller: Enabled
