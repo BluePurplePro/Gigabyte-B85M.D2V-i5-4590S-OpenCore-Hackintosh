@@ -19,27 +19,25 @@ _The hardware in this Machine is as follows_:
 - GPU: Intel(R) HD Graphics 4600
 
 # BIOS Settings
-
-+ **BIOS Features**
-- Fast Boot: Disabled
-- Limit CPUID Maximum: Disabled
-- Execute Disable Bit: Enabled
-- Intel Virtualization Technology: Enabled
-- VT-d: Disabled
-- Windows 8 Features: Other OS
-- Boot Mode Selection UEFI Only
-- LAN PXE Boot Option ROM: Disabled
-- Storage Boot Option Control: UEFI Only
-- Network stack: Disabled
-
-+ **Peripherals**
-- XHCI Mode: Enabled
-- Audio Controller: Enabled
-- Intel Processor Graphics: Enabled
-- Intel Processor Graphics Memory Allocation: 64M
-- DVMT Total Memory Size: MAX
-- XHCI Hand-off: Enabled
-- EHCI Hand-off: Enabled
-- OnBoard LAN Controller: Enabled
-- SATA Configuration: SATA Mode Selection: AHCI
-- Super IO Configuration: Serial Port A: Disabled
+- **BIOS Features**
+  - Fast Boot: Disabled
+  - Limit CPUID Maximum: Disabled
+  - Execute Disable Bit: Enabled
+  - Intel Virtualization Technology: Enabled
+  - VT-d: Disabled
+  - Windows 8 Features: Other OS
+  - Boot Mode Selection UEFI Only
+  - LAN PXE Boot Option ROM: Disabled
+  - Storage Boot Option Control: UEFI Only
+  - Network stack: Disabled
+- **Peripherals**
+  - XHCI Mode: Enabled
+  - Audio Controller: Enabled
+  - Intel Processor Graphics: Enabled
+  - Intel Processor Graphics Memory Allocation: 64M
+  - DVMT Total Memory Size: MAX
+  - XHCI Hand-off: Enabled
+  - EHCI Hand-off: Enabled
+  - OnBoard LAN Controller: Enabled
+  - SATA Configuration ~> SATA Mode Selection: AHCI
+  - Super IO Configuration ~> Serial Port A: Disabled
