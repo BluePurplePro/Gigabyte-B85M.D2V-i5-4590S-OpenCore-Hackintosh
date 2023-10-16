@@ -26,7 +26,7 @@ _The hardware in this Machine is as follows_:
   - Intel Virtualization Technology: Enabled
   - VT-d: Disabled
   - Windows 8 Features: Other OS
-  - Boot Mode Selection UEFI Only
+  - Boot Mode Selection: UEFI Only
   - LAN PXE Boot Option ROM: Disabled
   - Storage Boot Option Control: UEFI Only
   - Network stack: Disabled
